@@ -12,8 +12,8 @@ Init
 
 ### Scores
 | CV      |  Public LB | 
+| ----    |  ----      |
 | 14.9678 |  14.261    |
-| —       |  —         | 
 
 ### Hyperparameters
 Init 
